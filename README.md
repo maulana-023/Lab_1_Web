@@ -25,4 +25,6 @@ Ini adalah sebuah hasil dari texs Kodingan tag <p>
 <p>Nama Saya Maulana Muhamad,sedang belajar Html di mata kuliah Web Pemrograman.</p>
 <!-- Paragraf Kedua -->
 <p>HTML Ialah Sebuah bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di  dalam sebuah browser.</p>
+</body>
+</html>
 ```
